@@ -1,0 +1,8 @@
+[keystone]
+corneta@192.168.56.103
+
+[glance]
+corneta@192.168.56.103
+
+[nova]
+corneta@192.168.56.103
